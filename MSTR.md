@@ -1,16 +1,39 @@
 # ⚡ MSTR — Amps (Current)
 
-**MSTR (MicroStrategy Inc. common stock)** acts as the public proxy for directional Bitcoin exposure.
+MSTR is the common stock of Strategy Inc. (formerly MicroStrategy) — the base layer of shareholder ownership and pure Bitcoin beta.
 
-## 🧠 Electrical Analogy
-- **Amperage (Current)** = the *flow rate* of electrons through a system.
-- MSTR represents the **live flow** of Bitcoin conviction in public equity markets.
-- When Bitcoin moves, MSTR amplifies the signal — often with leverage.
+🔗 [View MSTR Overview on Strategy.com](https://www.strategy.com/)
 
-## 💰 Credit/Finance Interpretation
-- High-beta equity.
-- Offers indirect BTC exposure through MicroStrategy’s treasury strategy.
-- Volatile, reactive, and directional.
-- Think of it as **equity current** — responsive to voltage (PoW) and BTC price flow.
+---
 
-> A high-conviction conductor for Bitcoin energy.
+## ⚡ Electrical Analogy
+
+- **Amperage (Current)**: The volume of electrons flowing through a conductor.
+- MSTR reflects **unfiltered Bitcoin exposure**, responding quickly to BTC price and sentiment.
+- Highly reactive to Bitcoin's ups and downs, representing the **fastest-moving signal** in the circuit.
+
+---
+
+## 🧾 Financial Profile
+
+- **Instrument Type**: Common Equity
+- **Dividend**: None
+- **Volatility**: High
+- **Exposure**: Pure BTC beta + company operations
+- **Control**: Full voting rights
+
+---
+
+## 🧠 Why It Matters
+
+- Offers **uncapped upside** with maximum volatility
+- Trades like a **leveraged Bitcoin ETF**, due to BTC treasury focus
+- Forms the **foundation layer** of the Strategy capital stack
+
+---
+
+## 🔁 Capital Stack Position
+
+- Most junior and volatile layer
+- No fixed return or downside protection
+- Best suited for high-conviction, long-term Bitcoin believers
