@@ -21,3 +21,11 @@ As more capital flows into Bitcoin, we’ll see structured financial products ev
 And if Bitcoin is the new electricity, then MicroStrategy’s capital stack is the **first modular load balancer** built for it.
 
 > Want to contribute, remix, or build visuals? Fork this repo and let's build the next layer together.
+
+## ⚠️ Disclaimers
+
+- This project is **independent and unaffiliated** with Strategy Inc. (formerly MicroStrategy), its leadership, or any official product offerings.
+- All product names and ticker symbols (e.g. $MSTR, $STRK, $STRD, $STRC, $STRF) are used solely for **educational and illustrative purposes**.
+- This is **not financial advice (NFA)**. Nothing in this repository constitutes an offer, solicitation, or recommendation to buy or sell any securities or digital assets.
+- This is a creative, engineering-inspired framework designed to help readers understand capital structures through metaphor — not a substitute for professional advice.
+- Always do your own research and consult with a licensed financial advisor before making any investment decisions.
